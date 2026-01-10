@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "大脳的なランデブー",
+  "base_artist": "Kanaria",
+  "createdAt": "2026-01-10T04:29:03.865162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大脳的なランデブー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/01_大脳的なランデブー_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大脳的なランデブー",
+      "artist": "二口魔菜 Futakuchi Mana",
+      "has_synced": true,
+      "path": "select/02_大脳的なランデブー_二口魔菜_Futakuchi_Mana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大脳的なランデブー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/03_大脳的なランデブー_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大脳的なランデブー",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/04_大脳的なランデブー_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "大脳的なランデブー",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/05_大脳的なランデブー_Yuu..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大脳的なランデブー",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_大脳的なランデブー_Kanaria.txt"
+    }
+  ]
+}
